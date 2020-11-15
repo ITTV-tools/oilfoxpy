@@ -5,7 +5,7 @@
 ### Installation
 
 ```bash
-pip3 install oilfoxpy #todo
+pip3 install oilfoxpy
 ```
 ### Usage
 ```python
