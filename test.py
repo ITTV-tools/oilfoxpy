@@ -2,4 +2,4 @@ import oilfox
 
 api = oilfox.api("", "")
 api.login()
-print(api.getSummery())
+print(api.getsummary())
