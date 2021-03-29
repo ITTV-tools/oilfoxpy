@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="oilfoxpy",
-    version="0.1",
+    version="0.4",
     author="ittv-tools",
     description="API call to oilfox",
     url="https://github.com/ITTV-tools/olifoxpy",
