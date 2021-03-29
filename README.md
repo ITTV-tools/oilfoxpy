@@ -13,5 +13,5 @@ import oilfox
 
 api = oilfox.api("email", "password")
 api.login()
-api.getSummery()
+api.getsummary()
 ```
